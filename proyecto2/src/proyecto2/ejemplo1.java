@@ -6,7 +6,7 @@ public class ejemplo1 {
 <<<<<<< HEAD
 		System.out.println("HELLOU mundo nnn");
 =======
-		System.out.println("Hola mundo");
+		System.out.println("Hola esto es un infierno");
 		
 		public static void imprimeSaludo() { 
 System.out.println(“Hei”);	
